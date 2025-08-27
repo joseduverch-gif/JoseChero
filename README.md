@@ -45,7 +45,7 @@ Estoy buscando una **primera oportunidad laboral o práctica profesional** relac
 
 - ✉️ joseduverch@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/josecheroinga/)
-- 📁 Este GitHub: [github.com/tuusuario](https://github.com/joseduverch-gif/JoseChero)
+- 📁 Este GitHub:(https://github.com/joseduverch-gif/JoseChero)
 
 ---
 
